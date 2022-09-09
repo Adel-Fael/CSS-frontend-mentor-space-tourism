@@ -25,6 +25,10 @@
   --ff-sans-normal: "Barlow", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 @media (min-width: 35em) {
   :root {
     --fs-800: 5rem;
